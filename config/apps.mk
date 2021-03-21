@@ -15,8 +15,6 @@
 # Apps
 PRODUCT_PACKAGES += \
     OPScreenRecord \
-    Seedvault \
-    Snap \
     StitchImage \
     StitchImageService \
     TouchGestures
@@ -26,10 +24,8 @@ PRODUCT_PACKAGES += \
     SimpleDeviceConfig
 
 # FOD
-ifeq ($(EXTRA_FOD_ANIMATIONS),true)
 PRODUCT_PACKAGES += \
     FodAnimationResources
-endif
 
 # Wallpapers
 PRODUCT_PACKAGES += \

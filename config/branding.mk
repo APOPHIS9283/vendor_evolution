@@ -1,9 +1,9 @@
 # Versioning System
 EVO_BASE_VERSION := 5.5.2
 EVO_CODENAME := Tremor
-EVO_DONATE_URL ?= Unknown
-EVO_MAINTAINER ?= Unknown
-EVO_SUPPORT_URL ?= https://t.me/EvolutionX
+EVO_DONATE_URL := https://paypal.me/APOPHIS9283
+EVO_MAINTAINER := apophis9283 
+EVO_SUPPORT_URL ?= https://t.me/joinchat/SYPKW6V4xdOHHHPy
 
 # Set all versions
 EVO_BUILD_TYPE ?= UNOFFICIAL
