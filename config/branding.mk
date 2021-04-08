@@ -1,9 +1,6 @@
 # Versioning System
-EVO_BASE_VERSION := 5.5.2
-EVO_CODENAME := Tremor
-EVO_DONATE_URL := https://paypal.me/APOPHIS9283
-EVO_MAINTAINER := apophis9283 
-EVO_SUPPORT_URL ?= https://t.me/joinchat/SYPKW6V4xdOHHHPy
+EVO_BASE_VERSION := 5.6
+EVO_CODENAME := Passion
 
 # Set all versions
 EVO_BUILD_TYPE ?= UNOFFICIAL
@@ -35,7 +32,4 @@ PRODUCT_GENERIC_PROPERTIES += \
     org.evolution.build_date=$(EVO_BUILD_DATE) \
     org.evolution.build_date_utc=$(EVO_BUILD_DATE_UTC) \
     org.evolution.build_type=$(EVO_BUILD_TYPE) \
-    org.evolution.build_donate_url=$(EVO_DONATE_URL) \
-    org.evolution.build_maintainer=$(EVO_MAINTAINER) \
-    org.evolution.build_support_url=$(EVO_SUPPORT_URL) \
     org.evolution.build_codename=$(EVO_CODENAME)
