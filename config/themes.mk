@@ -84,8 +84,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     SystemDark12Overlay \
     SystemUIDark12Overlay \
-    SystemRavenBlackOverlay \
-    SystemUIRavenBlackOverlay \
+    SystemPitchBlackOverlay \
+    SystemUIPitchBlackOverlay \
     SystemDarkGrayOverlay \
     SystemUIDarkGrayOverlay \
     SystemStyleOverlay \
