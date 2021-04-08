@@ -14,7 +14,8 @@
 
 # Customization
 PRODUCT_PACKAGES += \
-    OmniStyle
+    OmniStyle \
+    WallpaperPicker2
 
 # GVM
 PRODUCT_PACKAGES += \
